@@ -5,6 +5,8 @@
 layout: default
 title: Principles
 ---
+# Principles
+
 - Adopt the strategies of Secure by Design and Secure by Default
 - Minimize attack surface area
 - Establish secure defaults
