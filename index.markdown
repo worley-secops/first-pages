@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Degreed Secure Coding Guidelines
 ---
-# Degreed Secure Coding Guidelines
-
 ## Introduction
 The security principles and guidelines are intended as a consistent, holistic framework to provide Degreed Engineers, Designers, Product Managers and QA Engineers. The provide clear best practices and patterns to follow to help us to design and implement a secure platform from the codebase up.
 
