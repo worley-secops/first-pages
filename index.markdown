@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# First heading
-
 # Degreed Secure Coding Guidelines
 
 ## Introduction
