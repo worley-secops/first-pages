@@ -33,6 +33,10 @@ url: "https://worley-secops.github.io" # the base hostname & protocol for your s
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
 
+# Just-the-docs configuration
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/SecOps-shift-left.png"
+
 plugins:
    - jekyll-feed
 
